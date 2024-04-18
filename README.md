@@ -54,4 +54,4 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kimnabin&theme=gruvbox&border_radius=5.8&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kimnabin&theme=gruvbox&border_radius=5.8&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
