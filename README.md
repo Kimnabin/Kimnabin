@@ -59,4 +59,4 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 ### :fire: My Stats :
 <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kimnabin&theme=gruvbox&border_radius=5.8&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimnabin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimnabin&layout=compact&theme=vision-friendly-dark)]()
