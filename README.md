@@ -33,6 +33,7 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 - :zap: In my free time, I solve problems on GeeksforGeeks,LeetCode,Codelearn and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]()
+  
 </div>
 
 ---
@@ -63,6 +64,14 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=Kimnabin&theme=gruvbox&border_radius=5.8&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimnabin&layout=compact&theme=vision-friendly-dark)]()
+
+---
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="congduc" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="congduc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="congduc" height="30" width="40" /></a>
 
 ---
 
