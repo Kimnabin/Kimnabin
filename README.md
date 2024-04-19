@@ -19,11 +19,12 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp4cnBqeGw4aXU1bHo5bjVlZ255aGE4ZnJ1NjE3M3o0ZjEwemw5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="800" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp4cnBqeGw4aXU1bHo5bjVlZ255aGE4ZnJ1NjE3M3o0ZjEwemw5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="700" height="300"/>
 </div>
 <div>
+  
+---
 
-    ---
 ### :woman_technologist: About Me :
 I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
