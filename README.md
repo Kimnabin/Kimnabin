@@ -1,4 +1,4 @@
-<!-- BLOG-POST-LIST:START -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThlaDY4MnZhbWRoMGs4bjd0Z2JqOTFybDU5djZsZDM5dGY3YWN6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   <div id="badges">
@@ -67,5 +67,5 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 ---
 
 ### :writing_hand: Blog Posts :
-
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
