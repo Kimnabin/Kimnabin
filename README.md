@@ -72,6 +72,7 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="congduc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="congduc" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303176/kakaotalk-logo.svg" alt="congduc" height="30" width="40" /></a>
 
 ---
 
