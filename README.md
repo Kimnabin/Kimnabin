@@ -14,7 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=kimnabin&style=flat-square&color=yellow" alt=""/>
   <h1>
-  hey there - 안년하세요
+   안년하세요
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -22,6 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
+
     ---
 
 ### :woman_technologist: About Me :
@@ -73,10 +74,11 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/congduc.1201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="congduc" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303176/kakaotalk-logo.svg" alt="congduc" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="congduc" height="30" width="40" /></a>
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Project Show Case :
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
