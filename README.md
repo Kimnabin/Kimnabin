@@ -22,6 +22,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp4cnBqeGw4aXU1bHo5bjVlZ255aGE4ZnJ1NjE3M3o0ZjEwemw5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="700" height="300"/>
 </div>
 <div>
+<div align="center">
   
 ---
 
@@ -82,3 +83,4 @@ I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUl
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
+</div>
