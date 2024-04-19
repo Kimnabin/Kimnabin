@@ -11,12 +11,12 @@
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=kimnabin&style=flat-square&color=yellow" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=kimnabin&style=flat-square&color=yellow" alt=""/>
   <h1>
    안년하세요
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  </div>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp4cnBqeGw4aXU1bHo5bjVlZ255aGE4ZnJ1NjE3M3o0ZjEwemw5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="700" height="300"/>
