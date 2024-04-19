@@ -19,12 +19,11 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="180"/>
 </div>
 <div>
 
     ---
-
 ### :woman_technologist: About Me :
 I will become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
