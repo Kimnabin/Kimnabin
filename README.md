@@ -14,6 +14,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=kimnabin&style=flat-square&color=yellow" alt=""/>
     <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     ^ 안년하세요 ^
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
